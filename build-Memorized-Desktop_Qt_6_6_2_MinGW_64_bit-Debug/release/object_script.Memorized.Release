@@ -1,0 +1,16 @@
+release/homedialog.o
+release/logindialog.o
+release/main.o
+release/querydialog.o
+release/quitdialog.o
+release/registerdialog.o
+release/userlist.o
+release/userwordlist.o
+release/worddialog.o
+release/wordlist.o
+release/moc_homedialog.o
+release/moc_logindialog.o
+release/moc_querydialog.o
+release/moc_quitdialog.o
+release/moc_registerdialog.o
+release/moc_worddialog.o

@@ -1,0 +1,16 @@
+debug/homedialog.o
+debug/logindialog.o
+debug/main.o
+debug/querydialog.o
+debug/quitdialog.o
+debug/registerdialog.o
+debug/userlist.o
+debug/userwordlist.o
+debug/worddialog.o
+debug/wordlist.o
+debug/moc_homedialog.o
+debug/moc_logindialog.o
+debug/moc_querydialog.o
+debug/moc_quitdialog.o
+debug/moc_registerdialog.o
+debug/moc_worddialog.o
